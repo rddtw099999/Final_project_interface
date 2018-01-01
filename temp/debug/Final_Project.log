@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\jarwy\desktop\主畫面\主畫面\source\main.c(28): warning C4013: 'getch' 未定義; 假設 extern 傳回整數
+  Final_Project.vcxproj -> C:\Users\Jarwy\Desktop\主畫面\主畫面\Final_Project\Final_Project\..\..\temp\debug\Final_Project.exe
